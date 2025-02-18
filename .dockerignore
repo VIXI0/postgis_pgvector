@@ -1,7 +1,7 @@
 .env
 .env-example
 .git/
-.github
+.gitlab
 .gitignore
 .idea
 .mypy_cache
@@ -12,3 +12,4 @@ kubernetes
 docker-compose.yml
 junk/
 kubernetes/
+package.json

@@ -1,0 +1,12 @@
+{
+  "name": "postgis_pgvector",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with postgis_pgvector.",
+  "scripts": {
+    "build": "podman build -t registry.gitlab.com/mitechy/postgis_pgvector .",
+    "push": "podman push registry.gitlab.com/mitechy/postgis_pgvector"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
